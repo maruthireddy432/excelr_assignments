@@ -1,1 +1,1 @@
-The repository contains implementations of python exercises, statistical methods.
+The repository contains implementations of python exercises and statistical methods.
